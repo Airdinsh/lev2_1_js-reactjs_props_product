@@ -1,0 +1,15 @@
+.productBox {
+    display: float;
+    justify-content: space-evenly;
+    gap: 50px;
+    width: 100px;
+    height: 3000px;
+    border: solid 1px black;
+    border-radius: 15px;
+    color: red;
+    background-color: lightblue;
+}
+
+img {
+    width: 50px;
+}
